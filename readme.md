@@ -31,6 +31,4 @@
 
 # 3. Result
 
-<video controls>
-    <source src="./asset/video.mp4" type="video/mp4"></source>
-</video>
+<video src="./asset/video.mp4"></video>
