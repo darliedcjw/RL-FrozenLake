@@ -30,4 +30,4 @@
 <p>Intuitively, it measure the before and after effect of taking an action. Coupled with a learning rate, it takes a portion of the learning (positive/negative) experience and update the current Q value.</p>
 
 # 3. Result
-https://github.com/darliedcjw/RL-FrozenLake/blob/main/asset/video.mp4
+<video src="https://github.com/darliedcjw/RL-FrozenLake/blob/main/asset/video.mp4"></video>
